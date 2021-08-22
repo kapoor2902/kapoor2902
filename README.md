@@ -32,7 +32,7 @@ Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Html/CSS/JS developer;
-- 🌱 I’m currently Data Structures and React Redux.
+- 🌱 I’m currently learning Data Structures and ReactJS.
 - 🤔 I’m looking for help with React and Linux;
 - 💬 Ask me about sports, I am happy to a coversation about;
 - ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
