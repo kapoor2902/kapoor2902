@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=kapoor2902&color=green" />
-<!--[](https://visitor-badge.glitch.me/badge?page_id=Samikmalhotra.Samikmalhotra)-->
+
 <br />
 
 <br/>
 
-Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering and Technology. I'm a member of [@ACM-Thapar](https://github.com/ACM-Thapar) and [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . Beside's programming, I love playing cricket and have an interest in all other sports. 
+Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering and Technology. I'm a core member at [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . Beside's programming, I love playing cricket and have an interest in all other sports. 
  
   <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
