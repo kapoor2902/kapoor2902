@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering and Technology. I'm a core member at [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . Beside's programming, I love playing cricket and have an interest in all other sports. 
+Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering and Technology. Finance Secretary at [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . Beside's programming, I love playing cricket and have an interest in all other sports. 
  
   <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Html/CSS/JS developer;
-- 🌱 I’m currently learning Data Structures and ReactJS.
-- 🤔 I’m looking for help with React and Linux;
-- 💬 Ask me about sports, I am happy to a coversation about it;
+- 👨🏽‍💻 I’m currently an Frontend developer;
+- 🌱 I’m currently learning Data Structures and Node.Js.
+- 🤔 I’m looking for help with Node.Js;
+- 💬 Ask me about sports, I am always happy to have a coversation about it;
 - ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
 - 📫 How to reach me: skapoor1_be20@thapar.edu ,https://kapoor2902.github.io/my-portfolio/
 
