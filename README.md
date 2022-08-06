@@ -77,7 +77,7 @@ Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering
 ![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=kapoor2902&repos=The-Great-Indian-Loyalty,Makeathon-4.0,DevTalks&theme=dracula)
 
 <div>
-    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kapoor2902&theme=dracula&hide_border=true"></a>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=kapoor2902&theme=xcode&hide_title=true&area=true"/>
   </div>
 
  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)]-->
