@@ -31,10 +31,9 @@ Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Frontend developer;
+- 👨🏽‍💻 I’m currently an Frontend developer
 - 🌱 I’m currently learning Data Structures and Node.Js.
-- 🤔 I’m looking for help with Node.Js;
-- 💬 Ask me about sports, I am always happy to have a coversation about it;
+- 🤔 I’m looking for help with Data Structures.
 - ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
 - 📫 How to reach me: skapoor1_be20@thapar.edu ,https://kapoor2902.github.io/my-portfolio/
 
