@@ -58,13 +58,18 @@ Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering
 
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
 
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
+
 
 
   
