@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering and Technology. Finance Secretary at [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . Beside's programming, I love playing cricket and have an interest in all other sports. 
+Hi, I'm Shivansh Kapoor,currently a sophomore at Thapar Institute of Engineering and Technology. Finance Secretary at [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . 
  
   <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
