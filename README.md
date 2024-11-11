@@ -31,7 +31,7 @@ Hi, I'm Shivansh Kapoor,currently a Software Engineer-1 at JPMorgan Chase & Co.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Full Stack Developer
+- 👨🏽‍💻 I’m currently a Full Stack Developer
 - 🌱 I’m currently learning AWS.
 - 🤔 I’m looking for help with Data Structures.
 - 📫 How to reach me: kapoor.shivansh2002@gmail.com
