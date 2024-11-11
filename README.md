@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Shivansh Kapoor,currently a software engineer-1 at JPMorgan Chase & Co. 
+Hi, I'm Shivansh Kapoor,currently a Software Engineer-1 at JPMorgan Chase & Co. 
  
   <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
