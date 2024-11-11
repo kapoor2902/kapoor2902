@@ -25,17 +25,16 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Shivansh Kapoor,currently a Pre-Final year Student at Thapar Institute of Engineering and Technology. Finance Secretary at [@MLSC-TIET](https://github.com/MicrosoftStudentChapter) . 
+Hi, I'm Shivansh Kapoor,currently a software engineer-1 at JPMorgan Chase & Co. 
  
   <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Frontend developer
-- 🌱 I’m currently learning Data Structures and Node.Js.
+- 👨🏽‍💻 I’m currently an Full Stack Developer
+- 🌱 I’m currently learning AWS.
 - 🤔 I’m looking for help with Data Structures.
-- ⚡️ Fun Fact: There is something exciting coming in a month , stay tuned
-- 📫 How to reach me: skapoor1_be20@thapar.edu ,https://kapoor2902.github.io/my-portfolio/
+- 📫 How to reach me: kapoor.shivansh2002@gmail.com
 
 
 
